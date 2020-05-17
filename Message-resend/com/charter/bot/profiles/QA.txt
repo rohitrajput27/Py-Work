@@ -1,0 +1,3 @@
+url:https://cissolosynchncw-qa.corp.chartercom.com/biller-order-translator-synch-service/services/solo/order
+username:jesisolouser
+password:jesisolouserpassword
